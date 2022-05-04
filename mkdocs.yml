@@ -1,5 +1,8 @@
 site_name: RsR Docs
-
+nav:
+  - Home: index.md
+  - Usage: usage.md
+  - 3rd page: 3rd_page.md
 
 theme:
   name: material
@@ -8,3 +11,4 @@ theme:
     accent: red
   features:
     - navigation.instant
+    - header.autohide
